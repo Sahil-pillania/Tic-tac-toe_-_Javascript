@@ -1,5 +1,5 @@
 console.log("Connected");
-
+// You can add music if you want to...
 // let music = new Audio("music.mp3");
 // let audioTurn = new Audio("music.mp3");
 // let gameover = new Audio("music.mp3");
